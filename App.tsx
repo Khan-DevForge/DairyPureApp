@@ -5,7 +5,7 @@ export default function App() {
   return (
     <SafeAreaView>
       <View>
-        <Text style={styles.text}>Dairy Pure</Text>
+        <Text style={styles.text}>Dairy Pure App</Text>
       </View>
     </SafeAreaView>
   );
